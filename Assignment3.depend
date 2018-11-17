@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1542475087 source:c:\users\ahmed\desktop\assignment3\assignment3\main.cpp
+	<iostream>
+	"Machine.h"
+
+1542475041 source:c:\users\ahmed\desktop\assignment3\assignment3\src\machine.cpp
+	"Machine.h"
+	"Output.h"
+	"Input.h"
+	<iostream>
+
+1542475125 c:\users\ahmed\desktop\assignment3\assignment3\include\machine.h
+
+1542468810 source:c:\users\ahmed\desktop\assignment3\assignment3\src\input.cpp
+	"Input.h"
+	<iostream>
+
+1542475574 c:\users\ahmed\desktop\assignment3\assignment3\include\input.h
+	"Machine.h"
+
+1542472158 source:c:\users\ahmed\desktop\assignment3\assignment3\src\output.cpp
+	"Output.h"
+	<iostream>
+
+1542475574 c:\users\ahmed\desktop\assignment3\assignment3\include\output.h
+
+1542466696 source:c:\users\ahmed\desktop\assignment3\assignment3\src\transaction.cpp
+	"Transaction.h"
+
+1542466771 c:\users\ahmed\desktop\assignment3\assignment3\include\transaction.h
+
+1542484192 source:c:\users\hafez\desktop\assignment3\main.cpp
+	<iostream>
+	"Machine.h"
+
+1542483237 c:\users\hafez\desktop\assignment3\include\machine.h
+
+1542483237 source:c:\users\hafez\desktop\assignment3\src\input.cpp
+	"Input.h"
+	<iostream>
+
+1542475574 c:\users\hafez\desktop\assignment3\include\input.h
+	"Machine.h"
+
+1542484347 source:c:\users\hafez\desktop\assignment3\src\machine.cpp
+	<iostream>
+	"Machine.h"
+	"Input.h"
+	"Output.h"
+
+1542475574 c:\users\hafez\desktop\assignment3\include\output.h
+
+1542484939 source:c:\users\hafez\desktop\assignment3\src\output.cpp
+	"Output.h"
+	<iostream>
+
